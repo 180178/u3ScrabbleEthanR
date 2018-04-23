@@ -1,0 +1,15 @@
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\bin\Debug\u3WordCutterEthanR.exe.config
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\bin\Debug\u3WordCutterEthanR.exe
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\bin\Debug\u3WordCutterEthanR.pdb
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.csprojResolveAssemblyReference.cache
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\MainWindow.g.cs
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\App.g.cs
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR_MarkupCompile.cache
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR_MarkupCompile.lref
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\MainWindow.baml
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.g.resources
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.Properties.Resources.resources
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.csproj.GenerateResource.Cache
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.csproj.CoreCompileInputs.cache
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.exe
+E:\ICS4U\Unit 3\u3WordCutterEthanR\u3WordCutterEthanR\obj\Debug\u3WordCutterEthanR.pdb
